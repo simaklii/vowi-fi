@@ -1,4 +1,4 @@
-worldwideweb.space
+vowi-fi.com
 
 User-agent: Googlebot
 Disallow:
@@ -515,6 +515,4 @@ Disallow:
 
 
                             
-#Begin Attracta SEO Tools Sitemap. Do not remove
-sitemap: http://cdn.attracta.com/sitemap/6005509.xml.gz
-#End Attracta SEO Tools Sitemap. Do not remove
+
